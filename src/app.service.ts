@@ -28,6 +28,9 @@ export class AppService {
   }
 
   async findOne(id: number) {
+    if (isNaN(id)) {
+      throw new NotFoundException();
+    }
     const quote = await this.quoteRepository.findOne(id, {
       relations: ['tags'],
     });
@@ -35,10 +38,6 @@ export class AppService {
       throw new NotFoundException('Quote not found');
     }
     return quote;
-  }
-
-  getHello(): string {
-    return 'Hello World!';
   }
 
   async getRandomQuote() {

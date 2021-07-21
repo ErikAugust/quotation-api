@@ -1,20 +1,34 @@
-import { Body, Controller, Get, Param, Post, Headers } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Param,
+  Post,
+  Headers,
+  Res,
+} from '@nestjs/common';
 import { AppService } from './app.service';
 import { CreateQuoteDto } from './dto/create-quote.dto';
 import { Quote } from './entities/quote.entity';
+import { Response } from 'express';
 
 @Controller()
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
   @Get('random')
-  async getRandomQuote(@Headers() headers): Promise<Quote | string> {
+  async getRandomQuote(
+    @Headers() headers,
+    @Res() res: Response,
+  ): Promise<Quote | string> {
     const quote = await this.appService.getRandomQuote();
     const contentType = headers['content-type'];
     if (contentType === 'application/json') {
-      return this.appService.getRandomQuote();
+      return quote;
     } else {
-      return `"${quote.quote}" - ${quote.attributed}`;
+      res.render('index', {
+        quote: `"${quote.quote}" - ${quote.attributed}`,
+      });
     }
   }
 
@@ -24,13 +38,18 @@ export class AppController {
   }
 
   @Get()
-  async getQuote(@Headers() headers): Promise<Quote | string> {
+  async getQuote(
+    @Headers() headers,
+    @Res() res: Response,
+  ): Promise<Quote | string> {
     const quote = await this.appService.getRandomQuote();
     const contentType = headers['content-type'];
     if (contentType === 'application/json') {
-      return this.appService.getRandomQuote();
+      return quote;
     } else {
-      return `"${quote.quote}" - ${quote.attributed}`;
+      res.render('index', {
+        quote: `"${quote.quote}" - ${quote.attributed}`,
+      });
     }
   }
 

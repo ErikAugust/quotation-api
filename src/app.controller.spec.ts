@@ -16,7 +16,7 @@ describe('AppController', () => {
 
   describe('root', () => {
     it('should return a random quotation', () => {
-      expect(typeof appController.getRandomQuote()).toBe('string');
+      expect(typeof appController.getRandomQuote(Headers)).toBe('string');
     });
   });
 });
