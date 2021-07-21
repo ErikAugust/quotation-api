@@ -1,0 +1,528 @@
+{
+  "list": [
+    {
+      "uuid": "f1a3d817-8ee2-4b9f-a3b7-4fe94b2db7f0",
+      "quote": "The rule for all terrors is head straight into them. When you are sailing in a storm, you don't let a wave hit your boat on the side. You go bow into the wave and ride it. So in the same way, old folklore says, whenever you meet a ghost don't run away, because the ghost will capture the substance of your fear and will materialize itself out of your own substance and will kill you eventually, because it will take over all your own vitality. So then, whenever confronted with a ghost, walk straight into it and it will disappear.",
+      "attributed": "Alan Watts",
+      "tags": []
+    },
+    {
+      "uuid": "188fa765-6a60-4b06-9f17-5eba04fe43d5",
+      "quote": "Most people struggle to be present. People go sit in ashrams for 20 years in India trying to be present. Do yoga. Meditate. Trying to get here. Now. Most people live in fear because we project the past into the future. Michael’s a mystic. He was never anywhere else. … His gift was not that he could jump high, run fast, shoot a basketball. His gift was that he was completely present. And that was the separator.",
+      "attributed": "Mark Vancil",
+      "subject": "Michael Jordan",
+      "tags": []
+    },
+    {
+      "uuid": "7036ce17-189f-4845-9238-341614ebb8d2",
+      "quote": "The first responsibility of a leader is to define reality.",
+      "attributed": "Max De Pree",
+      "tags": []
+    },
+    {
+      "uuid": "0537768f-e633-41cb-982a-e73d3dad7496",
+      "quote": "Decay is inherent in all compound things. Work out your own salvation with diligence.",
+      "attributed": "Gautama Buddha",
+      "tags": []
+    },
+    {
+      "uuid": "5f366960-7bf9-4166-b9a0-e3e62bfdc78b",
+      "quote": "My religion is not deceiving myself.",
+      "attributed": "Milarepa",
+      "tags": []
+    },
+    {
+      "uuid": "c177fea2-77a7-448f-8547-b7b15df9801f",
+      "quote": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+      "attributed": "Richard Feynman",
+      "url": "http://calteches.library.caltech.edu/51/2/CargoCult.htm",
+      "tags": []
+    },
+    {
+      "uuid": "93711165-6b45-4548-893d-2aa103ba6c64",
+      "quote": "When we drug ourselves to blot out our soul’s call, we are being good Americans and exemplary consumers. We’re doing exactly what TV commercials and pop materialist culture have been brainwashing us to do from birth. Instead of applying self-knowledge, self-discipline, delayed gratification and hard work, we simply consume a product.",
+      "attributed": "Steven Pressfield",
+      "tags": []
+    },
+    {
+      "uuid": "e0d7ff42-131b-4688-970c-fe5c4385e73f",
+      "quote": "So programming has to be a balancing act of constantly delivering functionality while at the same time ruthlessly refining your vision of how it's going to work. If you are delivering quickly, regularly and constantly nobody will touch you for fear of screwing it all up. But knowing how to do that while still marching inevitably closer to simpler and simpler solutions is hard. A normal person needs to practice (and get it wrong) a long time before they get good at it.",
+      "tags": []
+    },
+    {
+      "uuid": "1b84bfa9-a556-4ee0-88d6-5672d0efe77f",
+      "quote": "The best revenge is not to be like that.",
+      "attributed": "Marcus Aurelius",
+      "tags": []
+    },
+    {
+      "uuid": "7aa31714-b3e9-447b-8114-7a378eb3576b",
+      "quote": "Emotional control is the ultimate control.",
+      "attributed": "James Loehr",
+      "tags": []
+    },
+    {
+      "uuid": "0da623ea-3b22-4b94-9d54-e47a416e77d3",
+      "quote": "Peace of mind is the most important prerequisite for creative work.",
+      "attributed": "Richard Feynman",
+      "tags": []
+    },
+    {
+      "uuid": "96b4659b-f5e1-4743-9d6c-d89f1975bf6e",
+      "quote": "Honesty in small things is not a small thing.",
+      "tags": []
+    },
+    {
+      "uuid": "2bf4f21a-fb48-41eb-8ffb-b31b41c462ea",
+      "quote": "Put a grain of boldness into everything you do.",
+      "attributed": "Baltasar Gracian",
+      "tags": []
+    },
+    {
+      "uuid": "f73289b6-bc6b-4836-8107-9ab133ed6876",
+      "quote": "We are what we repeatedly do.",
+      "attributed": "Aristotle",
+      "tags": []
+    },
+    {
+      "uuid": "781e91c0-3662-4817-8eb7-f34336a726f5",
+      "quote": "Do the thing and you shall have the power.",
+      "attributed": "Ralph Waldo Emerson",
+      "tags": []
+    },
+    {
+      "uuid": "54f9b6ea-2c1d-4fb8-819d-ddebab672f63",
+      "quote": "Be aggressive, rather than reactive.",
+      "tags": []
+    },
+    {
+      "uuid": "2c046551-0d42-4541-b403-d6e6b2c6130b",
+      "quote": "Think like a man of action, act like a man of thought.",
+      "attributed": "Henri Bergson",
+      "tags": []
+    },
+    {
+      "uuid": "66952808-803f-44d8-bdfd-d13c10a05810",
+      "quote": "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction.",
+      "attributed": "E.F. Schumacher",
+      "tags": []
+    },
+    {
+      "uuid": "4bc18702-bd9d-4e33-b517-224cf8889d89",
+      "quote": "Underpromise, overdeliver.",
+      "tags": []
+    },
+    {
+      "uuid": "2c8ebddd-a1a9-4a80-890b-0d8f8609149d",
+      "quote": "The secret of all victory lies in the organization of the non-obvious.",
+      "attributed": "Oswald Spengler",
+      "tags": []
+    },
+    {
+      "uuid": "027893fa-13ca-431b-b413-928dbab0b8de",
+      "quote": "It’s not the daily increase but daily decrease. Hack away at the unessential.",
+      "attributed": "Bruce Lee",
+      "alternate": "One does not accumulate but eliminate. It is not daily increase but daily decrease. The height of cultivation always runs to simplicity.",
+      "tags": []
+    },
+    {
+      "uuid": "86b180e3-9e3b-4edf-9f66-e10ad4d584bc",
+      "quote": "If your mind is empty, it is always ready for anything; it is open for everything.",
+      "attributed": "Shunryu Suzuki",
+      "tags": []
+    },
+    {
+      "uuid": "d385a9a3-460a-4dc7-909b-77b6c6a80813",
+      "quote": "Power is based on perception. If you think you got it, you got it, even if you don't got it.",
+      "attributed": "Herb Cohen",
+      "tags": []
+    },
+    {
+      "uuid": "cb32bacf-cc13-4067-aad2-04d78a0608ee",
+      "quote": "Secret to productivity is not finding more time to do more stuff, but finding the strength to do less of the stuff that doesn't need doing.",
+      "attributed": "David Heinemeier Hansson",
+      "tags": []
+    },
+    {
+      "uuid": "9fb624bc-4ab3-4a19-b125-4ca719d9258e",
+      "quote": "People need to be liberated from their systems of symbolism and become more intensely aware of the living vibrations of the real world.",
+      "attributed": "Alan Watts",
+      "tags": []
+    },
+    {
+      "uuid": "a0978ba2-476b-4b27-b494-c47cc617a32a",
+      "quote": "Science fiction is not predictive; it is descriptive.",
+      "attributed": "Ursula Leguin",
+      "source": "http://theliterarylink.com/leguinintro.html",
+      "tags": []
+    },
+    {
+      "uuid": "df24846d-0743-417c-a84b-7302a1b57d08",
+      "quote": "Strategy is nourished by patience. There are so many people in the world with ideas to transform industries and build iconic brands. But very few people can stay loyal to a strategy long enough for their vision to materialize.",
+      "attributed": "Scott Belsky",
+      "source": "The Messy Middle",
+      "tags": []
+    },
+    {
+      "uuid": "ebf2d7be-d821-45d9-8814-f481ab95b487",
+      "quote": "I hated every minute of training, but I said, don't quit. Suffer now and live the rest of your life as a champion.",
+      "attributed": "Muhammad Ali",
+      "tags": []
+    },
+    {
+      "uuid": "f0518492-ef59-493f-a532-38e906e746b9",
+      "quote": "Great is the matter of birth and death. All is impermanent, quickly passing. Wake up! Wake up, each one! Don’t waste this life.",
+      "attributed": "Dogen",
+      "tags": []
+    },
+    {
+      "uuid": "c10eb875-052e-4911-8e6c-e6016f7fd401",
+      "quote": "Above all, do not lose your desire to walk: Every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.",
+      "attributed": "Søren Kierkegaard",
+      "tags": []
+    },
+    {
+      "uuid": "e0546c54-873d-4a88-96fe-daff6c4bac5b",
+      "quote": "Don't wait. The time will never be just right.",
+      "attributed": "Napoleon Hill",
+      "tags": []
+    },
+    {
+      "uuid": "7f3cab17-015a-4bca-801c-1a29a77c72fb",
+      "quote": "If a man can reduce his needs to zero, he is truly free: there is nothing that can be taken from him; nothing can hurt him.",
+      "attributed": "John Boyd",
+      "tags": []
+    },
+    {
+      "uuid": "1e55df8c-371d-461a-94b6-ee8219aed333",
+      "quote": "Productivity begins with intention.",
+      "tags": []
+    },
+    {
+      "uuid": "f725f73c-5f15-435f-aa2c-032b8f70d5b1",
+      "quote": "What disqualifies war from being a true game is probably what also disqualifies the stock market and business - the rules are not fully known nor accepted by all the players.",
+      "attributed": "Marshall McLuhan",
+      "tags": []
+    },
+    {
+      "uuid": "df3752ec-af87-401d-8b70-fcdaba0fa880",
+      "quote": "This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize that it is play.",
+      "attributed": "Alan Watts",
+      "tags": []
+    },
+    {
+      "uuid": "2cbd276f-f869-4f7b-8057-d714fcdd6b1d",
+      "quote": "The man who knows his limitations, has none.",
+      "attributed": "Unknown"
+      "tags": []
+    },
+    {
+      "uuid": "6213d09f-8a6f-496f-9eb0-cfc6a05ef1bc",
+      "quote": "Whatever you're meant to do, do it now. The conditions are always impossible.",
+      "attributed": "Doris Lessing",
+      "tags": []
+    },
+    {
+      "uuid": "c24fd6b4-ba73-4ca1-846c-e0920c7026ae",
+      "quote": "In God we trust; all others bring data.",
+      "attributed": "W. Edwards Deming",
+      "tags": []
+    },
+    {
+      "uuid": "c09d59d0-1d02-46fc-8d1f-0346e4edb0c8",
+      "quote": "You accept the limits placed on your body. Accept those placed on your time.",
+      "attributed": "Marcus Aurelius",
+      "tags": []
+    },
+    {
+      "uuid": "fb2355b8-ae08-482a-8519-70b9f3883cb1",
+      "quote": "A good reader is a quick decision maker, which is a good business person.",
+      "attributed": "Unknown"
+      "tags": []
+    },
+    {
+      "uuid": "a8be86d2-71e8-4f2c-bece-03d6679403cb",
+      "quote": "Every thought a person dwells upon, whether he expresses it or not, either damages or improves his life.",
+      "attributed": "Lucy Mallory",
+      "tags": []
+    },
+    {
+      "uuid": "2fedbf75-6d13-4c2c-b16a-e75ed185b39e",
+      "quote": "Judge a man by his questions rather than his answers.",
+      "attributed": "Voltaire",
+      "tags": []
+    },
+    {
+      "uuid": "3c26ce48-96f8-4171-8626-8181582fa319",
+      "quote": "As a general rule of thumb, when benefits are not quantified at all, assume there aren't any.",
+      "attributed": "Tom DeMarco and Timothy Lister",
+      "tags": []
+    },
+    {
+      "uuid": "11edff89-a796-41ca-8ccd-e1704ef0c400",
+      "quote": "For people falsely claim that human sense is the measure of things, whereas in fact all perceptions of sense and mind are built to the scale of man and not the universe.",
+      "attributed": "Francis Bacon",
+      "year": 1620,
+      "tags": []
+    },
+    {
+      "uuid": "2ef30450-2566-4c4d-a959-b2eb7ebde25d",
+      "quote": "Authorities must prove their contentions like everybody else.",
+      "attributed": "Carl Sagan",
+      "source": "The Demon Haunted World",
+      "tags": []
+    },
+    {
+      "uuid": "aa32aa3c-3dbd-44b8-b4dc-0e5251c07217",
+      "quote": "That is why gaming and feminine society, war and high office are so popular. It is not that they really bring happiness, nor that anyone imagines that true bliss comes from possessing the money to be won at gaming or the hare that is hunted: no one would take it as a gift. What people want is not the easy peaceful life that allows us to think of our unhappy condition, nor the dangers of war, nor the burdens of office, but the agitation that takes our mind off it and diverts us. That is why we prefer the hunt to the capture.",
+      "attributed": "Blaine Pascal",
+      "source": "Pensees",
+      "tags": []
+    },
+    {
+      "uuid": "d36c0461-5c17-4b37-b809-d6bbdde00a1b",
+      "quote": "To not to have entirely wasted one's life seems to be a worthy accomplishment, if only for myself.",
+      "attributed": "Charles Bukowski",
+      "tags": []
+    },
+    {
+      "uuid": "a86a83f5-5ade-4dd8-ac3d-440c94bedddc",
+      "quote": "Attention is the rarest and purest form of generosity.",
+      "attributed": "Simone Weil",
+      "tags": []
+    },
+    {
+      "uuid": "194a05d5-88c9-4f1f-8f1e-7b27401511d4",
+      "quote": "And how trivial the things we want so passionately are.",
+      "attributed": "Marcus Aurelius",
+      "tags": []
+    },
+    {
+      "uuid": "22c0e463-cebb-43aa-88ac-3bd168b6e695",
+      "quote": "We have to try to cure our faults by attention and not by will.",
+      "attributed": "Simone Weil",
+      "tags": []
+    },
+    {
+      "uuid": "fd6beeb7-8091-4d4e-8d44-68ff2bd21b0b",
+      "quote": "Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.",
+      "attributed": "Ira Glass",
+      "tags": []
+    },
+    {
+      "uuid": "5ce0ecfc-2c7c-49f1-91fe-f7ecd169f681",
+      "quote": "There is no past and no future; no one has ever entered those two imaginary kingdoms. There is only the present.",
+      "attributed": "Leo Tolstoy",
+      "tags": []
+    },
+    {
+      "uuid": "e8167d81-2e8c-4402-8d3e-ca8cf638acf3",
+      "quote": "The life which men praise and regard as successful is but one kind. Why should we exaggerate any one kind at the expense of the others?",
+      "attributed": "Henry David Thoreau",
+      "source": "Walden",
+      "year": 1854,
+      "tags": []
+    },
+    {
+      "uuid": "7f4316ca-8b38-448e-8028-94edbf0e6350",
+      "quote": "I have learned that the swiftest traveller is he who goes afoot.",
+      "attributed": "Henry David Thoreau",
+      "source": "Walden",
+      "year": 1854,
+      "tags": []
+    },
+    {
+      "uuid": "39253232-6467-4eae-ba11-4626294592fc",
+      "quote": "How difficult it is to be simple!",
+      "attributed": "Vincent van Gogh",
+      "tags": []
+    },
+    {
+      "uuid": "fb3d1f96-3794-4302-9449-247bb945e2f4",
+      "quote": "Our life is frittered away by detail.",
+      "attributed": "Henry David Thoreau",
+      "source": "Walden",
+      "year": 1854,
+      "tags": []
+    },
+    {
+      "uuid": "5d076180-26e1-49a8-9e26-341400a44fa4",
+      "quote": "The greatest truth is the most simple one.",
+      "attributed": "Leo Tolstoy",
+      "source": "A Calendar of Wisdom",
+      "tags": []
+    },
+    {
+      "uuid": "866cc94c-3fe0-4165-ac2b-9b5a08d85a61",
+      "quote": "When people speak in a very elaborate and sophisticated way, they either want to tell a lie, or to admire themselves. You should not believe such people. Good speech is always clear, clever, and understood by all.",
+      "attributed": "Leo Tolstoy",
+      "source": "A Calendar of Wisdom",
+      "tags": []
+    },
+    {
+      "uuid": "6a6d7aa9-36f3-4373-9432-b154420044d1",
+      "quote": "Happiness is the absence of striving for happiness.",
+      "attributed": "Chuang-tzu",
+      "tags": []
+    },
+    {
+      "uuid": "61a788db-91e8-48e6-960e-86dba0b409da",
+      "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "attributed": "Rumi",
+      "tags": []
+    },
+    {
+      "uuid": "59bbc282-2698-448c-8be9-afa8e907b59e",
+      "quote": "Beware the stories you read or tell; subtly, at night, beneath the waters of consciousness, they are altering your world.",
+      "attributed": "Ben Okri",
+      "tags": []
+    },
+    {
+      "uuid": "d2517639-590b-4b8a-b870-52faf6a22590",
+      "quote": "It is the loose ends with which men hang themselves.",
+      "attributed": "Zelda Fitzgerald",
+      "tags": []
+    },
+    {
+      "uuid": "52ba5cfc-8729-4529-98aa-f6c898b2a7ef",
+      "quote": "He who is everywhere is nowhere.",
+      "attributed": "Seneca",
+      "tags": []
+    },
+    {
+      "uuid": "a82ed9e5-438a-41da-9a38-e790666f88c4",
+      "quote": "'We must work without arguing' said Martin; 'that is the only way to make life bearable.'",
+      "attributed": "Voltaire",
+      "subject": "work",
+      "source": "Candide",
+      "url": "",
+      "page": 144,
+      "year": null,
+      "tags": [
+        "work"
+      ]
+    },
+    {
+      "uuid": "788d3906-76c1-4703-a463-7248009dc28e",
+      "quote": "Why should I bother with made-up games when there are so many real ones going on?",
+      "attributed": "Kurt Vonnegut",
+      "subject": "satire",
+      "source": "Cat's Cradle",
+      "url": "",
+      "page": 11,
+      "year": 1963,
+      "tags": [
+        "games",
+        "satire"
+      ]
+    },
+    {
+      "uuid": "fc62e5f9-40c6-462b-a744-fc677e46ae9c",
+      "quote": "Peculiar travel suggestions are dancing lessons from God.",
+      "attributed": "Kurt Vonnegut",
+      "subject": "travel",
+      "source": "Cat's Cradle",
+      "url": "",
+      "page": 63,
+      "year": 1963,
+      "tags": [
+        "travel",
+        "god"
+      ]
+    },
+    {
+      "uuid": "8e8dc23e-087d-4b1b-ac6a-01d7717d6f47",
+      "quote": "Maturity is a bitter disappointment for which no remedy exists, unless laughter can be said to remedy anything.",
+      "attributed": "Kurt Vonnegut",
+      "subject": "maturity",
+      "source": "Cat's Cradle",
+      "url": "",
+      "page": 198,
+      "year": 1963,
+      "tags": [
+        "maturity",
+        "humor",
+        "laughter"
+      ]
+    },
+    {
+      "uuid": "d7c18600-f976-4919-b6db-032cc45765d1",
+      "quote": "There is but one truly serious philosophical problem, and that is suicide.",
+      "attributed": "Albert Camus",
+      "subject": "suicide",
+      "source": "The Myth of Sisyphus",
+      "url": "",
+      "page": 3,
+      "year": 1942,
+      "tags": [
+        "suicide",
+        "philosophy"
+      ]
+    },
+    {
+      "uuid": "73ef30ce-ca30-4649-9d67-c60dd8e7ea15",
+      "quote": "A man is more a man through the things he keeps to himself than through those he says.",
+      "attributed": "Albert Camus",
+      "subject": "",
+      "source": "The Myth of Sisyphus",
+      "url": "",
+      "page": 85,
+      "year": 1942,
+      "tags": []
+    },
+    {
+      "uuid": "3d259b6e-fae9-456f-9f4a-fa603a8ebd40",
+      "quote": "Homely truth is unpalatable.",
+      "attributed": "Mark Twain",
+      "subject": "truth",
+      "source": "The Adventures of Tom Sawyer",
+      "url": "",
+      "page": 136,
+      "year": 1876,
+      "tags": [
+        "truth"
+      ]
+    },
+    {
+      "uuid": "63de8503-d452-4306-8e0d-9912a4d8d520",
+      "quote": "When you are going through Hell, keep going.",
+      "attributed": "Winston Churchill",
+      "subject": "",
+      "source": "",
+      "url": "",
+      "page": null,
+      "year": null,
+      "tags": [
+        "motivation",
+        "hell"
+      ]
+    },
+    {
+      "uuid": "02276659-d199-4dbf-b432-a10d477c37f1",
+      "quote": "He had discovered a great law of human action, without knowing it - namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.",
+      "attributed": "Mark Twain",
+      "subject": "human nature",
+      "source": "The Adventures of Tom Sawyer",
+      "url": "",
+      "page": 22,
+      "year": 1876,
+      "tags": [
+        "human nature"
+      ]
+    },
+    {
+      "uuid": "aee5c3c1-2dbd-43c5-b437-565d6b37cac6",
+      "quote": "When you are going through Hell, keep going.",
+      "attributed": "Winston Churchill",
+      "subject": "",
+      "source": "",
+      "url": "",
+      "page": null,
+      "year": null,
+      "tags": [
+        "inspiration"
+      ]
+    }
+  ],
+  "config": {}
+}
