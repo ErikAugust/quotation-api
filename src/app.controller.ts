@@ -26,7 +26,9 @@ export class AppController {
     if (contentType === 'application/json') {
       return quote;
     } else {
-      return `"${quote.quote}" - ${quote.attributed}`;
+      res.render('index', {
+        quote: `"${quote.quote}" - ${quote.attributed}`,
+      });
     }
   }
 
@@ -45,7 +47,9 @@ export class AppController {
     if (contentType === 'application/json') {
       return quote;
     } else {
-      return `"${quote.quote}" - ${quote.attributed}`;
+      res.render('index', {
+        quote: `"${quote.quote}" - ${quote.attributed}`,
+      });
     }
   }
 
