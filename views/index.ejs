@@ -13,9 +13,18 @@
     </style>
   </head>
   <body>
-    <div class="quote d-flex flex-column min-vh-100 justify-content-center align-items-center">
-        <p><%= quote %></p>
+    <div class="container">
+      <div class="quote d-flex flex-column min-vh-100 justify-content-center align-items-center">
+        <figure class="text-center">
+          <blockquote class="blockquote">
+            <p><%= quote %></p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            <%= attributed %>
+          </figcaption>
+        </figure>
         <button type="button" class="btn btn-link" onclick="location.reload()">See another quote</button>
+      </div>
     </div>
   </body>
 </html>
