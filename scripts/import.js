@@ -4,7 +4,7 @@
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const { default: axios } = require('axios');
-const url = 'http://localhost:3000';
+const url = 'https://quotes-eaj.vercel.app';
 
 void (async function () {
   // eslint-disable-next-line @typescript-eslint/no-var-requires
