@@ -11,6 +11,37 @@
             padding-left: 40px;
             padding-right: 40px;
         }
+        .fade-in-text {
+            animation: fadeIn linear 2s;
+            -moz-animation: fadeIn linear 2s;
+            -o-animation: fadeIn linear 2s;
+            -ms-animation: fadeIn linear 2s;
+        }
+
+        @keyframes fadeIn {
+          0% {opacity:0;}
+          100% {opacity:1;}
+        }
+
+        @-moz-keyframes fadeIn {
+          0% {opacity:0;}
+          100% {opacity:1;}
+        }
+
+        @-webkit-keyframes fadeIn {
+          0% {opacity:0;}
+          100% {opacity:1;}
+        }
+
+        @-o-keyframes fadeIn {
+          0% {opacity:0;}
+          100% {opacity:1;}
+        }
+
+        @-ms-keyframes fadeIn {
+          0% {opacity:0;}
+          100% {opacity:1;}
+        }
     </style>
   </head>
   <body>
@@ -18,9 +49,9 @@
       <div class="quote d-flex flex-column min-vh-100 justify-content-center align-items-center">
         <figure class="text-center">
           <blockquote class="blockquote">
-            <p><%= quote %></p>
+            <p class="fade-in-text"><%= quote %></p>
           </blockquote>
-          <figcaption class="blockquote-footer">
+          <figcaption class="blockquote-footer fade-in-text">
             <%= attributed %>
           </figcaption>
         </figure>
